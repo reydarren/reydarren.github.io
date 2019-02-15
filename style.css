@@ -23,3 +23,9 @@ body {
 	height: 32.5vw;
 	padding: 1.5em 0;
 }
+
+.projHead {
+	width: 50%;
+	text-align: left;
+	font-size: 1.8em;
+}
