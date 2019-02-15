@@ -1,1 +1,6 @@
-
+body {
+	background-color: #17252A;
+	display: block;
+	font-family: 'Poppins', sans-serif;
+	color: #feffff;
+}
