@@ -4,3 +4,22 @@ body {
 	font-family: 'verdana', sans-serif;
 	color: #feffff;
 }
+
+* {
+	margin: auto;
+}
+
+#onett h1 {
+	font-family:cursive, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	text-align: center;
+	font-size: 3.6em;
+}
+
+.projects img {
+	display: block;
+	width: 52vw;
+	height: 32.5vw;
+	padding: 1.5em 0;
+}
